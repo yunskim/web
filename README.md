@@ -1,2 +1,2 @@
 # web
-a set of scripts and files for data acquisition through internet
+a set of J scripts and files for data acquisition through internet
